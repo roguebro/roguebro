@@ -22,3 +22,5 @@ Keep in mind this series is still (very) young.
 
 https://github.com/roguebro/powershell
 
+https://github.com/roguebro/nvim
+

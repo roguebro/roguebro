@@ -15,3 +15,7 @@ Initially I wanted to call them `LaaOWTA`'s as in *Learn `XYZ` as an Open World 
 
 The first one: https://github.com/roguebro/powershell
 
+## 2024-05-25
+
+The potentially life-long exploration of (Neo)Vim-features surely deserves its own OWTA: https://github.com/roguebro/nvim
+
